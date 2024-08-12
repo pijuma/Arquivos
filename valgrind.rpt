@@ -1,0 +1,15 @@
+==36651== Memcheck, a memory error detector
+==36651== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==36651== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==36651== Command: ./bin/programaTrab
+==36651== Parent PID: 36650
+==36651== 
+==36651== 
+==36651== HEAP SUMMARY:
+==36651==     in use at exit: 0 bytes in 0 blocks
+==36651==   total heap usage: 5 allocs, 5 frees, 7,640 bytes allocated
+==36651== 
+==36651== All heap blocks were freed -- no leaks are possible
+==36651== 
+==36651== For lists of detected and suppressed errors, rerun with: -s
+==36651== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
