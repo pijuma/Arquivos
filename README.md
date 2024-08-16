@@ -1,4 +1,5 @@
-## Repositório para organização de trabalhos de arquivos
+## Repositório para organização de trabalhos de arquivos 
+Shogo e Pietra 
 
 Para rodar os programas em C, do diretório desejado (e.g. "T1"), para testar casos (e.g. "1.in"):
 ```
